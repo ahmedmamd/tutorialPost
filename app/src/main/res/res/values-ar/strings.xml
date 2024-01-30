@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    ************************** اسم التطبيق **********************************
+    <string name="app_name">Tmalty</string>
+    <string name="currency_code">أ.د</string>
+    <string name="distance_code">كم</string>
+    ************************** معالجة أخطاء إدخال النص **********************************
+    <string name="required">مطلوب</string>
+    <string name="email_not_valid">بريد غير صالح</string>
+    <string name="date_not_valid">التاريخ غير صالح</string>
+    <string name="password_length_not_valid">كلمة المرور يجب أن تحتوي على 6 أحرف على الأقل</string>
+    <string name="password_matching_not_valid">كلمة المرور غير متطابقة</string>
+    ************************** مضي الزمن **********************************
+    <string name="ago_in_arabic">منذ</string>
+    <string name="min_ago">دقائق</string>
+    <string name="hours_ago">ساعات</string>
+    <string name="days_ago">أيام</string>
+    <string name="just_now">الآن</string>
+    <string name="a_min_ago">دقيقة</string>
+    <string name="yesterday">أمس</string>
+    <string name="hour_ago">ساعة</string>
+    <string name="work_hours">ساعة عمل</string>
+    <string name="birthdate">تاريخ الميلاد</string>
+    ************************** نشاط تسجيل الدخول **********************************
+    <string name="let_s_sign_you_in">هيا نسجل دخولك</string>
+    <string name="input_your_info_to_login_to_start_work_and_get_money">أدخل معلوماتك لتسجيل الدخول وبدء العمل والحصول على المال</string>
+    <string name="forget_password">نسيت كلمة المرور؟</string>
+    <string name="question_sign">؟</string>
+    <string name="login">تسجيل الدخول</string>
+    ************************** نشاط نسيت كلمة المرور **********************************
+    <string name="please_enter_your_phone_number_you_will_receive_a_code_to_create_a_new_password">الرجاء إدخال رقم الهاتف الخاص بك. ستتلقى رمزًا لإنشاء كلمة مرور جديدة.</string>
+    ************************** نشاط التحقق من رمز OTP **********************************
+    <string name="confirm_phone">تأكيد رقم الهاتف</string>
+    <string name="edit">تعديل</string>
+    <string name="resend_code">إعادة إرسال الرمز</string>
+    ************************** نشاط كلمة المرور الجديدة **********************************
+    <string name="new_password">كلمة المرور الجديدة</string>
+    <string name="confirm_new_password">تأكيد كلمة المرور الجديدة</string>
+    <string name="change_password">تغيير كلمة المرور</string>
+    ************************** النشاط الرئيسي **********************************
+    ************************** شاشة الحالة **********************************
+    <string name="continue_">متابعة</string>
+    <string name="log_in_or_sign_up">تسجيل الدخول أو التسجيل</string>
+    <string name="log_in_if_you_have_an_account_or_sign_up_to_create_an_account">سجل الدخول إذا كان لديك حساب أو سجل لإنشاء حساب.</string>
+    <string name="join">انضم</string>
+    <string name="welcome_back">مرحبًا مرة أخرى..!</string>
+    <string name="login_your_account">تسجيل الدخول إلى حسابك</string>
+    <string name="remember_me">تذكرني</string>
+    <string name="enter_your_data_to_be_able_to_request">أدخل بياناتك لتتمكن من الطلب</string>
+    <string name="surname">اللقب</string>
+    <string name="company_name">اسم الشركة</string>
+    <string name="join_now">انضم الآن</string>
+    <string name="please_enter_your_email_to_recover_your_password">الرجاء إدخال عنوان البريد الإلكتروني الخاص بك لاستعادة كلمة المرور</string>
+    <string name="otp_verification">تحقق من OTP</string>
+    <string name="enter_the_code_you_got_on_your_mobile_number">أدخل الرمز الذي تلقيته على هاتفك المحمول</string>
+    <string name="did_not_receive_code">لم تتلقى الرمز؟</string>
+    <string name="verify">تحقق</string>
+    <string name="create_a_new_password">إنشاء كلمة مرور جديدة</string>
+    <string name="please_enter_a_new_password">الرجاء إدخال كلمة مرور جديدة</string>
+    <string name="this_field_is_required">هذا الحقل مطلوب.</string>
+    <string name="please_enter_a_numeric_value">الرجاء إدخال قيمة رقمية.</string>
+    <string name="please_enter_a_valid_email_address">الرجاء إدخال عنوان بريد إلكتروني صالح.</string>
+    <string name="please_enter_a_valid_phone_number">الرجاء إدخال رقم هاتف صالح.</string>
+    <string name="password_must_contain_at_least_x_characters_including_uppercase_lowercase_numeric_and_special_characters">يجب أن تحتوي كلمة المرور على {x} حرف على الأقل، بما في ذلك الحروف الكبيرة والصغيرة والأرقام والرموز الخاصة.</string>
+    <string name="please_enter_a_valid_date_in_the_format_format">الرجاء إدخال تاريخ صالح بالتنسيق {format}.</string>
+    <string name="confirmation_does_not_match_field_name">التأكيد غير متطابق مع {اسم الحقل}.</string>
+    <string name="please_select_at_least_one_option">الرجاء تحديد خيار واحد على الأقل.</string>
+    <string name="value_should_be_between_min_and_max">يجب أن تكون القيمة بين {min} و {max}.</string>
+    <string name="save">حفظ</string>
+    <string name="settings">الإعدادات</string>
+    <string name="notifications">الإشعارات</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="contact_us">اتصل بنا</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="about_us">عنا</string>
+    <string name="share_app">مشاركة التطبيق</string>
+    <string name="edit_profile">تعديل الملف الشخصي</string>
+    <string name="change_email">تغيير البريد الإلكتروني</string>
+    <string name="change_phone_number">تغيير رقم الهاتف</string>
+    <string name="shipments">الشحنات</string>
+    <string name="enter_your_new_phone_number">أدخل رقم هاتفك الجديد</string>
+    <string name="you_are_about_to_change_your_phone_number_20_28">أنت على وشك تغيير\n رقم هاتفك +20*********28</string>
+    <string name="enter_your_new_email_address">أدخل عنوان بريدك الإلكتروني الجديد</string>
+    <string name="you_are_about_to_change_your_email_no_gmail_com">أنت على وشك تغيير\n بريدك الإلكتروني no*******@gmail.com</string>
+    <string name="please_enter_your_code_to_verify_to_email_address">الرجاء إدخال الرمز للتحقق من\n عنوان البريد الإلكتروني</string>
+    <string name="otp">OTP</string>
+    <string name="save_changes">حفظ التغييرات</string>
+    <string name="requests">الطلبات</string>
+    <string name="tracking_number">رقم التتبع</string>
+    <string name="pickup_time">وقت الاستلام</string>
+    <string name="how_can_we_help_you">كيف يمكننا مساعدتك؟</string>
+    <string name="contact_us_now_our_team_will_get_back_to_you_in_a_short_time">اتصل بنا الآن! سيتصل فريقنا بك في وقت قريب.</string>
+    <string name="current_password">كلمة المرور الحالية</string>
+    <string name="are_you_sure_you_want_to_logout_this_account">هل أنت متأكد أنك تريد تسجيل الخروج من هذا الحساب؟</string>
+    <string name="yes_logout">نعم، تسجيل الخروج</string>
+    <string name="no_thanks">لا، شكرًا</string>
+    <string name="no_results_found">لم يتم العثور على نتائج</string>
+    <string name="pickup_location">موقع الاستلام</string>
+    <string name="destination_address">عنوان الوجهة</string>
+    <string name="start">بدء</string>
+    <string name="choose">اختيار</string>
+    <string name="address">العنوان</string>
+    <string name="package_info">معلومات الطرد</string>
+    <string name="select_truck">اختيار الشاحنة</string>
+    <string name="step_1">الخطوة 1</string>
+    <string name="step_2">الخطوة 2</string>
+    <string name="step_3">الخطوة 3</string>
+    <string name="pickup_date_time"><![CDATA[الاستلام (التاريخ والوقت)]]></string>
+    <string name="choose_date">اختيار التاريخ</string>
+    <string name="choose_time">اختيار الوقت</string>
+    <string name="category">الفئة</string>
+    <string name="package_type">نوع الطرد</string>
+    <string name="description">الوصف</string>
+    <string name="destination_location">موقع الوجهة</string>
+    <string name="destination_contact_info">معلومات الاتصال بالوجهة</string>
+    <string name="pickup_contact_info">معلومات الاتصال بموقع الاستلام</string>
+    <string name="mark_all_as_read">وسم الكل كمقروء</string>
+    <string name="request_details">تفاصيل الطلب</string>
+    <string name="delivery_address">عنوان التسليم</string>
+    <string name="about_package">حول الطرد</string>
+    <string name="drivers">السائقون</string>
+    <string name="driver_info">معلومات السائق</string>
+    <string name="skip">تخطي</string>
+    <string name="select_at_least_one_truck">يرجى تحديد مركبة واحدة على الأقل</string>
+    <string name="select_pickup_date">يرجى تحديد تاريخ الاستلام</string>
+    <string name="you_must_write_a_description">يجب عليك كتابة وصف</string>
+    <string name="select_pick_up_location">يرجى تحديد موقع الاستلام</string>
+    <string name="select_destination_location">يرجى تحديد موقع الوجهة</string>
+    <string name="done">تم</string>
+    <string name="track_trip">تتبع الرحلة</string>
+    <string name="package_status">حالة الطرد</string>
+    <string name="last_updated">آخر تحديث:</string>
+    <string name="are_you_sure_you_want_mark_all_as_read">هل أنت متأكد أنك تريد وسم الكل كمقروء؟</string>
+    <string name="yes_mark_all">نعم، وسم الكل</string>
+    <string name="empty_notifications">إشعارات فارغة</string>
+    <string name="passwords_not_matched">كلمات المرور غير متطابقة</string>
+    <string name="password_has_been_changed">تم تغيير كلمة المرور</string>
+    <string name="email_address_has_been_changed">تم تغيير عنوان البريد الإلكتروني</string>
+    <string name="completed">تم الانتهاء</string>
+    <string name="running">قيد التنفيذ</string>
+    <string name="canceled">تم الإلغاء</string>
+    <string name="requested">تم الطلب</string>
+    <string name="share_via">مشاركة عبر</string>
+    <string name="session_expire">انتهاء الجلسة</string>
+    <string name="you_need_to_login_to_continue">تحتاج إلى تسجيل الدخول للمتابعة</string>
+    <string name="are_you_sure_you_want_to_cancel_this_request">هل أنت متأكد أنك تريد إلغاء هذا الطلب؟</string>
+    <string name="yes_cancel">نعم، إلغاء</string>
+
+
+
+
+
+
+
+    /*****************************************************/
+    <string name="open">فتح</string>
+    <string name="close">غلق</string>
+    <string name="welcome">اهلا بك ...!</string>
+    <string name="enter_your_registered_data_to_complete_the_login_process">ادخل بياناتك المسجلة لإتمام عملية الدخول</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="ex_mail_mail_com">مثال:mail@mail.com</string>
+    <string name="password">كلمة المرور</string>
+    <string name="forgot_password">نسيت كلمة المرور ؟</string>
+    <string name="log_in">تسجيل الدخول</string>
+    <string name="or_log_in_with">أو تسجيل الدخول بواسطة</string>
+    <string name="google">حساب جوجل</string>
+    <string name="don_t_have_an_account">ليس لديك حساب ؟</string>
+    <string name="sign_up">انشاء حساب</string>
+    <string name="profile_photo">الصورةالشخصية</string>
+    <string name="name">الاسم</string>
+    <string name="first_name">الأول</string>
+    <string name="last_name">الأخير</string>
+    <string name="are_you_a_seller">هل انت بائع ؟</string>
+    <string name="or_create_an_account_with">أو أنشئ حسابًا بواسطة</string>
+    <string name="choose_photo">اختر صورة</string>
+    <string name="gallery">معرض الصور</string>
+    <string name="camera">الكاميرا</string>
+    <string name="cancel">الغاء</string>
+    <string name="invalid_email_address">البريد الالكتروني غير صحيح.</string>
+    <string name="password_should_be_at_least_6_characters_or_digits">كلمة المرور يجب الا تقل عن 6 حروف او ارقام.</string>
+    <string name="forgot_password2">نسيت كلمة المرور  ..!</string>
+    <string name="please_enter_your_registered_email_to_send_the_verification_code">من فضلك ادخل البريد الالكتروني المسجل لدينا لارسال رمز التحقق.</string>
+    <string name="send">ارسال</string>
+    <string name="enter_the_verification_code">ادخل رمز التحقق</string>
+    <string name="enter_please_enter_the_code_sent_to">من فضلك ادخل الرمز المرسل الي</string>
+    <string name="resend_sms_code">اعادة ارسال الرمز</string>
+    <string name="confirm">تأكيد</string>
+    <string name="enter_the_password">ادخل كلمة المرور</string>
+    <string name="please_enter_a_new_password_that_is_strong_and_easy_to_remember">من فضلك ادخل كلمة المرور الجديدة تكون قوية ويسهل تذكرها .</string>
+    <string name="confirm_password">تأكيد كلمة المرور</string>
+    <string name="invalid_sms_code">كود التحقق غير صحيح</string>
+    <string name="re_password_not_match">كلمة المرور غير متطابقة</string>
+    <string name="previous">السابق</string>
+    <string name="phone_number">رقم الهاتف</string>
+    <string name="account_verification">توثيق الحساب</string>
+    <string name="next">التالي</string>
+    <string name="field_is_required">الحقل مطلوب</string>
+    <string name="country_code_required">كود الدولة مطلوب</string>
+    <string name="choose_front_of_photo_og_identification">اختر صورة الجهة الأمامية للهوية الوطنية</string>
+    <string name="choose_a_photo_of_the_back_side_of_the_national_id">اختر صورة الجهة الخلفية للهوية الوطنية</string>
+    <string name="choose_your_photo_with_the_national_id">اختر صورتك مع الهوية الوطنية</string>
+    <string name="front_of_photo_og_identification">صورة الجهة الأمامية للهوية الوطنية</string>
+    <string name="photo_of_the_back_side_of_the_national_id">صورة الجهة الخلفية للهوية الوطنية</string>
+    <string name="your_photo_with_the_national_id">صورتك مع الهوية الوطنية</string>
+    <string name="choose_country">اختر الدولة</string>
+    <string name="choose_gender">اختر النوع</string>
+    <string name="please_attach_your_national_id_card_and_make_sure_it_is">يرجى ارفاق بطاقة الهوية الوطنية والتأكد من أنها:</string>
+    <string name="well_illuminated_and_clear_to_read">مضيئة بشكل جيد وواضحة للقراءة</string>
+    <string name="framed_and_uncut">موضوعة داخل الإطار وغير مقصوصة.</string>
+    <string name="the_name_as_it_is_in_the_id">الاسم كما هو في الهوية</string>
+    <string name="country">الدولة</string>
+    <string name="date_of_birth">تاريخ الميلاد</string>
+    <string name="gender">النوع</string>
+    <string name="male">ذكر</string>
+    <string name="female">أنثى</string>
+    <string name="select_date_of_birth">اختر تاريخ الميلاد</string>
+    <string name="your_data_has_been_sent_successfully_and_is_currently_being_reviewed_you_will_be_notified_on_the_email_address_registered_with_us">تم ارسال بياناتك بنجاح وجاري مراجعتها حالياً , سيتم اخطارك علي البريد الالكتروني المسجل لدينا</string>
+    <string name="go_to_home_page">الرئيسية</string>
+    <string name="home">الرئيسية</string>
+    <string name="categories">الاقسام</string>
+    <string name="orders">الطلبات</string>
+    <string name="add_service">أضف خدمة</string>
+    <string name="profile">حسابي</string>
+    <string name="chats">الرسائل</string>
+    <string name="cart">سلة المشتريات</string>
+    <string name="purchases">المشتريات</string>
+    <string name="more">المزيد</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="try_design_an_application_or_website">جرب: تصميم تطبيق أو موقع ..</string>
+    <string name="departments">الأقسام</string>
+    <string name="show_all">عرض الكل</string>
+    <string name="service_details">تفاصيل الخدمة</string>
+
+
+</resources>

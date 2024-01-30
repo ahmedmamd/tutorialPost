@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="screen_background_color">#111111</color>
+    <color name="statusbarColor">@color/black</color>
+    <color name="blackWhite">@color/white</color>
+    <color name="whiteBlack">@color/black</color>
+    <color name="input_bg">#202020</color>
+    <color name="input_stroke">#202020</color>
+    <color name="greyWhite">#ffffff</color>
+    <color name="mainColor30Black">#202020</color>
+    <color name="greyLightBlack">#202020</color>
+    <color name="lightblueBlack">#202020</color>
+    <color name="mainColorWhite">@color/white</color>
+    <color name="mainColor10Black">#202020</color>
+    <color name="whiteBlack2">#202020</color>
+
+</resources>

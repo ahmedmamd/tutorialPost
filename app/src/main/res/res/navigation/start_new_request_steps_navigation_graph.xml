@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/start_new_request_navigation_graph"
+    app:startDestination="@id/fragment_start_new_requests_step_one">
+
+    <fragment
+        android:id="@+id/fragment_start_new_requests_step_one"
+        android:name="com.upclicks.tmalty.ui.startnewequest.fragments.StartNewRequestStepOneFragment"
+        android:label="@string/select_truck"
+        tools:layout="@layout/fragment_start_new_requests_step_one" />
+
+    <fragment
+        android:id="@+id/fragment_start_new_requests_step_two"
+        android:name="com.upclicks.tmalty.ui.startnewequest.fragments.StartNewRequestStepTwoFragment"
+        android:label="@string/package_info"
+        tools:layout="@layout/fragment_start_new_requests_step_two" />
+
+    <fragment
+        android:id="@+id/fragment_start_new_requests_step_three"
+        android:name="com.upclicks.tmalty.ui.startnewequest.fragments.StartNewRequestStepThreeFragment"
+        android:label="@string/address"
+        tools:layout="@layout/fragment_start_new_requests_step_three" />
+
+    <action
+        android:id="@+id/action_step_one_to_step_two"
+        app:destination="@id/fragment_start_new_requests_step_two" />
+
+    <action
+        android:id="@+id/action_step_two_to_step_three"
+        app:destination="@id/fragment_start_new_requests_step_three" />
+</navigation>

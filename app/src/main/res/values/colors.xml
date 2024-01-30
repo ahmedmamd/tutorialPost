@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#05081A</color>
+    <color name="colorPrimaryDark">#05081A</color>
+    <color name="color_second">#FFB801</color>
+    <color name="color_second_transparent">#EDFFB801</color>
+    <color name="color_second_transparent2">#E2FFB801</color>
+    <color name="colorAccent">#FFB801</color>
+    <color name="transparent">#00000000</color>
+    <color name="dialog_overlay">#B3777777</color>
+    <color name="light_grey">#1AEAEAEA</color>
+    <color name="text_primary">#ffffff</color>
+    <color name="text_primaryDark">#1b1b1b</color>
+    <color name="text_second">#D2D2D2</color>
+    <color name="text_second11">#1AEAEAEA</color>
+    <color name="colorPrimaryTransparent">#B277B64D</color>
+    <color name="gold">#FFC107</color>
+    <color name="seekpar_color">#535353</color>
+    <color name="gold_open">#29000000</color>
+    <color name="transparent_gray">#A4FFFFFF</color>
+    <color name="transparent_black_gray">#B4888888</color>
+    <color name="gray">#707070</color>
+    <color name="grayLight">#ACACAC</color>
+    <color name="icon_back_transparent">#DC444444</color>
+    <color name="live_red">#FF0000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue_70">#B3273E4D</color>
+    <color name="color_gray_blue">#8D93A5</color>
+    <color name="gray_dark">#4B4B4B</color>
+    <color name="black">#FF000000</color>
+    <color name="yellow_10">#1AEAEA1A</color>
+    <color name="line_color">#1AEAEAEA</color>
+    <color name="dotes_color">#66E2E263</color>
+    background: #;
+
+
+    <!--    <color name="social_color">#1AEAEA1A</color>-->
+    <color name="social_color">#1AEAEAEA</color>
+
+
+    <color name="screen_background_color">@color/white</color>
+</resources>

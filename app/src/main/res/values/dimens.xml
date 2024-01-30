@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="action_bar_height">@dimen/_45sdp</dimen>
+    <dimen name="horizontal_edge_spaces">@dimen/_16sdp</dimen>
+    <dimen name="vertical_edge_spaces">@dimen/_16sdp</dimen>
+    <dimen name="top_edge_spaces">@dimen/_16sdp</dimen>
+    <dimen name="bottom_edge_spaces">@dimen/_16sdp</dimen>
+    <dimen name="start_edge_spaces">@dimen/_16sdp</dimen>
+    <dimen name="end_edge_spaces">@dimen/_16sdp</dimen>
+</resources>

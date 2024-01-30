@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/white</color>
+    <color name="colorPrimaryDark">@color/white</color>
+    <color name="colorAccent">@color/white</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="mainColor">#BA2649</color>
+    <color name="mainColor10">#FCEEF1</color>
+    <color name="mainColor30">#F5CCD6</color>
+    <color name="grey">#777777</color>
+    <color name="grey_light">#D9D9D9</color>
+    <color name="input_hint">#AAAAAA</color>
+    <color name="input_stroke">#F4F4F4</color>
+    <color name="input_bg">#FAFAFA</color>
+    <color name="transparent">#00000000</color>
+
+
+    <color name="screen_background_color">@color/white</color>
+    <color name="statusbarColor">@color/white</color>
+    <color name="blackWhite">@color/black</color>
+    <color name="whiteBlack">@color/white</color>
+    <color name="whiteBlack2">@color/white</color>
+    <color name="greyWhite">#777777</color>
+    <color name="mainColor30Black">#F5CCD6</color>
+    <color name="greyLightBlack">@color/grey_light</color>
+    <color name="lightblueBlack">#EEF6FC</color>
+    <color name="mainColorWhite">#BA2649</color>
+    <color name="mainColor10Black">#FCEEF1</color>
+
+
+
+</resources>

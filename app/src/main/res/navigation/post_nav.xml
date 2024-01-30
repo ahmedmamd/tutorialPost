@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/reels_nav"
+    app:startDestination="@id/allPosts">
+
+    <fragment
+        android:id="@+id/allPosts"
+        android:name="com.posts.ui.fragment.posts.AllPostsFragment"
+        android:label="PaymentFragment"
+        tools:layout="@layout/fragment_all_posts" />
+    <fragment
+        android:id="@+id/userPosts"
+        android:name="com.posts.ui.fragment.posts.UserPostFragment"
+        android:label="PaymentFragment"
+        tools:layout="@layout/fragment_post" />
+
+</navigation>
